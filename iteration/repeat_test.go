@@ -38,8 +38,6 @@ func BenchmarkRepeat(b *testing.B) {
 // pkg: iteration
 // cpu: Intel(R) Xeon(R) CPU E5-4620 0 @ 2.20GHz
 // BenchmarkRepeat-16       4050237               286.8 ns/op
+// Benchmark名称——CPU数(GOMAXPROCS)  循环次数  平均每次耗时
 // PASS
 // ok      iteration       1.473s
-
-
-// benchmark名称——CPU数(GOMAXPROCS)  循环次数  平均每次耗时
