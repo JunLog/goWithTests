@@ -66,6 +66,9 @@ func TestAllTails(t *testing.T) {
 	})
 }
 
+// 测试覆盖率
+// go test -cover
+
 // vscode 快捷键
 // 折叠所有区域代码	Ctrl+k,Ctrl+0
 // 展开所有区域代码	Ctrl+k,Ctrl+j
